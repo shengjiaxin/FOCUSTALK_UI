@@ -1,5 +1,0 @@
-allure_environment:
-  URL: https://www.made-in-china.com
-  description: app test_ca description
-  username: fangke@focuschina.com
-  version: V1.0.0
